@@ -1,0 +1,1 @@
+{"type":"object","required":["specimen_id","element","value","unit"],"properties":{"specimen_id":{"type":"string"},"element":{"type":"string"},"value":{"type":"number"},"unit":{"enum":["mm","cm"]}}}
